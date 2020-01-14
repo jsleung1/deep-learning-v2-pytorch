@@ -146,6 +146,5 @@ class NeuralNetwork(object):
 ##########################################################
 iterations = 10000
 learning_rate = 0.2
-hidden_nodes = 5
+hidden_nodes = 12
 output_nodes = 1
-#Training loss: 0.067 ... Validation loss: 0.154
